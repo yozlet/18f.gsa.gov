@@ -80,6 +80,36 @@
   } 
 }
 
+.jumbotron.header {
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media (max-width: 992px) {
+  .jumbotron.header {
+    height: 250px;
+  }
+}
+@media (max-width: 550px) {
+  .jumbotron.header {
+    height: 200px;
+  }
+}
+@media (max-width: 360px) {
+  .jumbotron.header {
+    height: 150px;
+  }
+}
+.jumbotron.header.mantra {
+  background-image: url(images/slideshow/buzz.jpg);
+}
+.jumbotron.header.blog {
+  background-image: url(http://farm9.staticflickr.com/8215/8338629712_ceeaba8a1b_h.jpg);
+}
+.jumbotron.header.team {
+  background-image: url(https://farm8.staticflickr.com/7174/6550572299_033e091043_o.jpg);
+}
+
 .photo-credit {
   color:#fff;
   font-size: 1.1em;
