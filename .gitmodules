@@ -1,3 +1,7 @@
 [submodule "js/jquery-dotdotdot"]
 	path = js/jquery-dotdotdot
 	url = https://github.com/BeSite/jQuery.dotdotdot.git
+
+[submodule "js/skrollr"]
+	path = js/skrollr
+	url = https://github.com/Prinzhorn/skrollr.git
