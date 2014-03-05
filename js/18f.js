@@ -59,4 +59,8 @@ $(document).ready(function () {
     $(this).addClass('fade-'+e);
     var t = setTimeout("$('.fade-"+e+"').fadeIn(500)",500*e);
   });
+
+  // initialize skrollr to implement parallax
+  var s = skrollr.init();   
+  s.refresh($('.jumbotron.header'))
 });
