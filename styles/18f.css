@@ -122,10 +122,10 @@
   background-image: url(images/slideshow/buzz.jpg);
 }
 .jumbotron.header.blog {
-  background-image: url(http://farm9.staticflickr.com/8215/8338629712_ceeaba8a1b_h.jpg);
+  background-image: url(https://farm9.staticflickr.com/8157/7494178044_a08a3a80c6_b.jpg);
 }
 .jumbotron.header.team {
-  background-image: url(https://farm8.staticflickr.com/7174/6550572299_033e091043_o.jpg);
+  background-image: url(https://farm6.staticflickr.com/5299/5531929109_5046318c9b_b.jpg);
 }
 
 .photo-credit {
@@ -198,7 +198,7 @@
   }
 }
 .mantra h2 > strong {
-  color: #906;}
+  color: #e53013;}
 .mantra p {
   font-size: 14px;
   padding-top:20px;
@@ -215,7 +215,7 @@
   font-weight: 700;
 }
 .blog h4 > a {
-  color:#906; 
+  color:#e53013; 
   text-decoration: none;
 }
 .blog h4 > a:hover {
@@ -235,7 +235,7 @@
 }
 #blog-loading .error {
   text-align: center;
-  color: #906;
+  color: #e53013;
   display: none;
 }
 
